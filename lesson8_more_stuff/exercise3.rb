@@ -1,0 +1,1 @@
+puts "Exception handling allows program execution to continue even if an exception is found."
